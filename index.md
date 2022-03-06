@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Assignment 7
+**Chris Park | 02/27/2022 | IT FDN 110**    
 
-You can use the [editor on GitHub](https://github.com/chrisgpark/ITFDN110_07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Objective**
+In this assignment, I explore exception handling and pickling module in Python. To fulfill requirements of this assignment, I have scripted a simple program that allows user to enter contact (name and phone number) to be saved to and loaded back onto the program from a .dat file.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Scripting**
+Start the script by defining variables. 
+![Figure 1](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.28%20PM.png "Figure 1")
 
-### Markdown
+Start a loop allowing the user to add contact to .dat file, while informing user of errors with try/except
+![Figure 2](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.36%20PM.png "Figure 2")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once the first loop ends, start another loop to list contact on .dat file. 
+![Figure 3](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.45%20PM.png "Figure 3")
 
-```markdown
-Syntax highlighted code block
+**Running the Program**
+Running the code on PyCharm:
+![Figure 4](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.35.37%20PM.png "Figure 4")
 
-# Header 1
-## Header 2
-### Header 3
+Running the code on OSX terminal: 
+![Figure 5](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.58.28%20PM.png "Figure 5")
 
-- Bulleted
-- List
+As seen above, code runs successfully on both PyCharm and terminal.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisgpark/ITFDN110_07/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Summary**
+In this project, I learned about about exception handling and pickling in Python. Exception handling is essential to include for end users, as it allows developers to manage errors. Meanwhile, pickling allows efficient handling of data, when compared to processing data from a text file.
