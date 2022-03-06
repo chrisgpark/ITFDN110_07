@@ -6,20 +6,20 @@ In this assignment, I explore exception handling and pickling module in Python. 
 
 **Scripting**
 Start the script by defining variables. 
-![Figure 1](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.28%20PM.png "Figure 1")
+![Figure 1](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.28%20PM.png?raw=true "Figure 1")
 
 Start a loop allowing the user to add contact to .dat file, while informing user of errors with try/except
-![Figure 2](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.36%20PM.png "Figure 2")
+![Figure 2](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.36%20PM.png?raw=true "Figure 2")
 
 Once the first loop ends, start another loop to list contact on .dat file. 
-![Figure 3](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.45%20PM.png "Figure 3")
+![Figure 3](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.46.45%20PM.png?raw=true "Figure 3")
 
 **Running the Program**
 Running the code on PyCharm:
-![Figure 4](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.35.37%20PM.png "Figure 4")
+![Figure 4](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.35.37%20PM.png?raw=true "Figure 4")
 
 Running the code on OSX terminal: 
-![Figure 5](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.58.28%20PM.png "Figure 5")
+![Figure 5](https://github.com/chrisgpark/ITFDN110_07/blob/main/Screen%20Shot%202022-02-27%20at%209.58.28%20PM.png?raw=true "Figure 5")
 
 As seen above, code runs successfully on both PyCharm and terminal.
 
